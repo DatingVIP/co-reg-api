@@ -1,0 +1,105 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "abafc2d4e27f1f905fe4b5e88354e6a3",
+    "packages": [
+        {
+            "name": "datingvip/api",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/DatingVIP/api-client.git",
+                "reference": "66d13c78d1c4e3d6caa3fb984a993e5c3292f200"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/66d13c78d1c4e3d6caa3fb984a993e5c3292f200",
+                "reference": "66d13c78d1c4e3d6caa3fb984a993e5c3292f200",
+                "shasum": ""
+            },
+            "require": {
+                "datingvip/curl": "dev-master",
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "DatingVIP": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPLv3"
+            ],
+            "authors": [
+                {
+                    "name": "Boris Momčilović",
+                    "email": "boris@firstbeatmedia.com",
+                    "homepage": "http://firstbeatmedia.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "DatingVIP API Client",
+            "homepage": "https://github.com/DatingVIP/api-client",
+            "keywords": [
+                "api client",
+                "datingvip"
+            ],
+            "time": "2014-06-04 11:26:51"
+        },
+        {
+            "name": "datingvip/curl",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/DatingVIP/cURL.git",
+                "reference": "1174528367142b7a784c6b08d3f6c816558bf31d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/DatingVIP/cURL/zipball/1174528367142b7a784c6b08d3f6c816558bf31d",
+                "reference": "1174528367142b7a784c6b08d3f6c816558bf31d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.0.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "DatingVIP": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPLv3"
+            ],
+            "authors": [
+                {
+                    "name": "Joe Watkins",
+                    "email": "joe@firstbeatmedia.com",
+                    "homepage": "http://firstbeatmedia.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Curl based HTTP Client - Simple but effective OOP wrapper around Curl php lib",
+            "homepage": "https://github.com/DatingVIP/cURL",
+            "keywords": [
+                "curl"
+            ],
+            "time": "2014-04-25 15:03:29"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "datingvip/api": 20
+    },
+    "platform": {
+        "php": ">=5.4.0"
+    },
+    "platform-dev": []
+}
