@@ -1,4 +1,4 @@
-registration-api
-================
+co-reg-api
+==========
 
-DatingVIP Registration API example
+DatingVIP Co-Registration API example
