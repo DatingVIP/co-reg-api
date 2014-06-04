@@ -1,0 +1,26 @@
+{
+    "name": "datingvip/api/coreg",
+    "type": "library",
+    "description": "DatingVIP Co-Registration API",
+    "keywords": ["datingvip", "api co-registration"],
+    "homepage": "https://github.com/DatingVIP/co-reg-api",
+    "license": "LGPLv3",
+	"minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Boris Momčilović",
+            "email": "boris@firstbeatmedia.com",
+            "homepage": "http://firstbeatmedia.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+		"datingvip/api": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "DatingVIP": "src"
+        }
+    }
+}
