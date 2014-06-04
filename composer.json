@@ -1,5 +1,5 @@
 {
-    "name": "datingvip/api/coreg",
+    "name": "datingvip/co-reg-api",
     "type": "library",
     "description": "DatingVIP Co-Registration API",
     "keywords": ["datingvip", "api co-registration"],

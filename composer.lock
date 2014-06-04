@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "abafc2d4e27f1f905fe4b5e88354e6a3",
+    "hash": "54dbb36f16bdaba22046b80be28c54bc",
     "packages": [
         {
             "name": "datingvip/api",
@@ -11,12 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/DatingVIP/api-client.git",
-                "reference": "aff13dcaa64b3887f42a05eccff0d6a47d2f7e7a"
+                "reference": "390d327609f660954d5857948a537cbc0e8d6ba6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/aff13dcaa64b3887f42a05eccff0d6a47d2f7e7a",
-                "reference": "aff13dcaa64b3887f42a05eccff0d6a47d2f7e7a",
+                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/390d327609f660954d5857948a537cbc0e8d6ba6",
+                "reference": "390d327609f660954d5857948a537cbc0e8d6ba6",
                 "shasum": ""
             },
             "require": {
@@ -47,7 +47,7 @@
                 "api client",
                 "datingvip"
             ],
-            "time": "2014-06-04 12:04:31"
+            "time": "2014-06-04 12:23:58"
         },
         {
             "name": "datingvip/curl",
