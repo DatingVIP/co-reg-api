@@ -11,12 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/DatingVIP/api-client.git",
-                "reference": "66d13c78d1c4e3d6caa3fb984a993e5c3292f200"
+                "reference": "aff13dcaa64b3887f42a05eccff0d6a47d2f7e7a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/66d13c78d1c4e3d6caa3fb984a993e5c3292f200",
-                "reference": "66d13c78d1c4e3d6caa3fb984a993e5c3292f200",
+                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/aff13dcaa64b3887f42a05eccff0d6a47d2f7e7a",
+                "reference": "aff13dcaa64b3887f42a05eccff0d6a47d2f7e7a",
                 "shasum": ""
             },
             "require": {
@@ -47,7 +47,7 @@
                 "api client",
                 "datingvip"
             ],
-            "time": "2014-06-04 11:26:51"
+            "time": "2014-06-04 12:04:31"
         },
         {
             "name": "datingvip/curl",
