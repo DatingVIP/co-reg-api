@@ -48,35 +48,35 @@ class CoReg
  * Register member
  *
  * Mandatory params:
- * - email:			valid email address
- * - ip_address:	requester's IP address
+ * - email:         valid email address
+ * - ip_address:    requester's IP address
  *
  * Optional params:
- * - username		(string) 6-20 chars [a-z\p{L}0-9_\.\-])
+ * - username       (string) 6-20 chars [a-z\p{L}0-9_\.\-])
  *   if not provided (or already existing supplied) new one will be created
  *
- * - birthdate		(string)
+ * - birthdate      (string)
  *   eg: '1983-02-10'
  *
- * - age (integer)
+ * - age            (integer)
  *   eg: 32, if not passed, will be calculated from birthdate if provided
  *
- * - gender	(integer)
+ * - gender         (integer)
  *   eg: 1, member's gender (genders identificators depend on the target site and/or system)
  *
- * - looking		(integer)
- *   eg: 2			member's "I'm looking for 'gender'" (genders identificators depend on the target site and/or system)
+ * - looking        (integer)
+ *   eg: 2          member's "I'm looking for 'gender'" (genders identificators depend on the target site and/or system)
  *
- * - title			(string) 255 chars
+ * - title          (string) 255 chars
  *   eg: "I'm awesome"
  *
- * - password		(string)
+ * - password       (string)
  *   If not provided, password will be generated and returned
  *
- * - password_re	(string)
+ * - password_re    (string)
  *   If provided, must match password
  *
- * - firstname		(string) 20 chars
+ * - firstname      (string) 20 chars
  *   eg: "Geoffrey" - members first name
  *
  * Additional params related to geo location (country, city and/or zip) must match DatingVIP patterns.
