@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "54dbb36f16bdaba22046b80be28c54bc",
+    "hash": "2bff03e58b290ce2e8fca9f26423c4fe",
     "packages": [
         {
             "name": "datingvip/api",
