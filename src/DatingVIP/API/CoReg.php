@@ -125,8 +125,10 @@ class CoReg
  */
     public function zipAndCity($country, $term)
     {
-        $term = $this->sanatizeString ($term);
-        $command = new Command (self::CMD_ZIP_AND_CITY, ['country' => $this->sanatizeCountry ($country), 'term' => $term]);
+        $command = new Command (self::CMD_ZIP_AND_CITY, [
+            'country'	=> $this->sanatizeCountry ($country),
+            'term'		=> $this->sanatizeString ($term)
+        ]);
         return $this->api->execute ($command);
     }
 
@@ -139,8 +141,7 @@ class CoReg
  */
     public function checkUsername($username)
     {
-        $username = $this->sanatizeString ($username);
-        $command = new Command (self::CMD_CHECK_USERNAME, ['username' => $username]);
+        $command = new Command (self::CMD_CHECK_USERNAME, ['username' => $this->sanatizeString ($username)]);
         return $this->api->execute ($command);
     }
 
@@ -153,8 +154,7 @@ class CoReg
  */
     public function checkEmail($email)
     {
-        $email = $this->sanatizeString ($email);
-        $command = new Command (self::CMD_CHECK_EMAIL, ['email' => $email]);
+        $command = new Command (self::CMD_CHECK_EMAIL, ['email' => $this->sanatizeString ($email)]);
         return $this->api->execute ($command);
     }
 
