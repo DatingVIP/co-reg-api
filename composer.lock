@@ -11,12 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/DatingVIP/api-client.git",
-                "reference": "390d327609f660954d5857948a537cbc0e8d6ba6"
+                "reference": "8f776716deff2c686a806b90a7383e43614f4502"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/390d327609f660954d5857948a537cbc0e8d6ba6",
-                "reference": "390d327609f660954d5857948a537cbc0e8d6ba6",
+                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/8f776716deff2c686a806b90a7383e43614f4502",
+                "reference": "8f776716deff2c686a806b90a7383e43614f4502",
                 "shasum": ""
             },
             "require": {
@@ -47,7 +47,7 @@
                 "api client",
                 "datingvip"
             ],
-            "time": "2014-06-04 12:23:58"
+            "time": "2014-06-05 07:31:21"
         },
         {
             "name": "datingvip/curl",
@@ -55,12 +55,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/DatingVIP/cURL.git",
-                "reference": "1174528367142b7a784c6b08d3f6c816558bf31d"
+                "reference": "c73442120800c166136585ec485846a15f8c0b5f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DatingVIP/cURL/zipball/1174528367142b7a784c6b08d3f6c816558bf31d",
-                "reference": "1174528367142b7a784c6b08d3f6c816558bf31d",
+                "url": "https://api.github.com/repos/DatingVIP/cURL/zipball/c73442120800c166136585ec485846a15f8c0b5f",
+                "reference": "c73442120800c166136585ec485846a15f8c0b5f",
                 "shasum": ""
             },
             "require": {
@@ -89,7 +89,7 @@
             "keywords": [
                 "curl"
             ],
-            "time": "2014-04-25 15:03:29"
+            "time": "2014-06-05 07:30:19"
         }
     ],
     "packages-dev": [],
