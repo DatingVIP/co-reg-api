@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "54dbb36f16bdaba22046b80be28c54bc",
+    "hash": "2bff03e58b290ce2e8fca9f26423c4fe",
     "packages": [
         {
             "name": "datingvip/api",
@@ -11,12 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/DatingVIP/api-client.git",
-                "reference": "390d327609f660954d5857948a537cbc0e8d6ba6"
+                "reference": "7406f42ac52f5ae13c27c4fd73829a9f6fef7582"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/390d327609f660954d5857948a537cbc0e8d6ba6",
-                "reference": "390d327609f660954d5857948a537cbc0e8d6ba6",
+                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/7406f42ac52f5ae13c27c4fd73829a9f6fef7582",
+                "reference": "7406f42ac52f5ae13c27c4fd73829a9f6fef7582",
                 "shasum": ""
             },
             "require": {
@@ -47,7 +47,7 @@
                 "api client",
                 "datingvip"
             ],
-            "time": "2014-06-04 12:23:58"
+            "time": "2014-06-05 07:56:40"
         },
         {
             "name": "datingvip/curl",
@@ -55,12 +55,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/DatingVIP/cURL.git",
-                "reference": "1174528367142b7a784c6b08d3f6c816558bf31d"
+                "reference": "2301689cceb03f73a72338c0a686f88d0c04cf6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DatingVIP/cURL/zipball/1174528367142b7a784c6b08d3f6c816558bf31d",
-                "reference": "1174528367142b7a784c6b08d3f6c816558bf31d",
+                "url": "https://api.github.com/repos/DatingVIP/cURL/zipball/2301689cceb03f73a72338c0a686f88d0c04cf6f",
+                "reference": "2301689cceb03f73a72338c0a686f88d0c04cf6f",
                 "shasum": ""
             },
             "require": {
@@ -89,7 +89,7 @@
             "keywords": [
                 "curl"
             ],
-            "time": "2014-04-25 15:03:29"
+            "time": "2014-06-05 07:56:07"
         }
     ],
     "packages-dev": [],
