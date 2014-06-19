@@ -55,12 +55,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/DatingVIP/cURL.git",
-                "reference": "9c56108ca6dc1ff3501b58b8f343784d2d2e54f7"
+                "reference": "86da994ad464593d7979c73bf5d734f07a9c5472"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DatingVIP/cURL/zipball/9c56108ca6dc1ff3501b58b8f343784d2d2e54f7",
-                "reference": "9c56108ca6dc1ff3501b58b8f343784d2d2e54f7",
+                "url": "https://api.github.com/repos/DatingVIP/cURL/zipball/86da994ad464593d7979c73bf5d734f07a9c5472",
+                "reference": "86da994ad464593d7979c73bf5d734f07a9c5472",
                 "shasum": ""
             },
             "require": {
@@ -89,7 +89,7 @@
             "keywords": [
                 "curl"
             ],
-            "time": "2014-06-05 11:53:08"
+            "time": "2014-06-19 12:15:33"
         }
     ],
     "packages-dev": [],
