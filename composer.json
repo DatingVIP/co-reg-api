@@ -5,7 +5,6 @@
     "keywords": ["datingvip", "api co-registration"],
     "homepage": "https://github.com/DatingVIP/co-reg-api",
     "license": "LGPLv3",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Boris Momčilović",
@@ -16,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-		"datingvip/api": "dev-master"
+        "datingvip/api": "~1"
     },
     "autoload": {
         "psr-0": {
