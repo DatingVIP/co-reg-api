@@ -3,7 +3,7 @@
 require_once 'vendor/autoload.php';
 
 $api = new DatingVIP\API\Client;
-$api->setUrl ('http://www.domain.com/api/');
+$api->setUrl ('http://www.domain.com/api.json');
 $api->setAuth ('username', 'p4$$w0rd');
 
 $co_reg = new DatingVIP\API\CoReg ($api);
