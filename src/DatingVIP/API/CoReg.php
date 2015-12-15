@@ -162,7 +162,7 @@ class CoReg
  * Get information on required geo data for given country
  *
  * @param string $country
- * @access public*
+ * @access public
  * @return Response
  */
     public function getGeoFormats($country)
