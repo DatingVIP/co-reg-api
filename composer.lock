@@ -9,16 +9,16 @@
     "packages": [
         {
             "name": "datingvip/api",
-            "version": "v1.0.2",
+            "version": "v1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/DatingVIP/api-client.git",
-                "reference": "9f13f05db731c2e48e9f7d79a3f73c9eb56ce002"
+                "reference": "06e42a6ea3546facb77bee2958071a8f485803ea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/9f13f05db731c2e48e9f7d79a3f73c9eb56ce002",
-                "reference": "9f13f05db731c2e48e9f7d79a3f73c9eb56ce002",
+                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/06e42a6ea3546facb77bee2958071a8f485803ea",
+                "reference": "06e42a6ea3546facb77bee2958071a8f485803ea",
                 "shasum": ""
             },
             "require": {
@@ -49,7 +49,7 @@
                 "api client",
                 "datingvip"
             ],
-            "time": "2016-02-05 17:36:28"
+            "time": "2016-02-09 07:41:10"
         },
         {
             "name": "datingvip/curl",
