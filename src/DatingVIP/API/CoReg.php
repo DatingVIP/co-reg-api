@@ -81,6 +81,14 @@ class CoReg
  *
  * Additional params related to geo location (country, city and/or zip) must match DatingVIP patterns.
  * (See helper methods below on geo data)
+ * - country		(string) 2 chars, ISO 3166-1 alpha-2
+ *   eg: "BR"
+ *
+ * - city			(string)
+ *   eg: "Sao Paolo"
+ *
+ * - zip			(string)
+ *   eg: "24108"
  *
  * Affiliate data is optional, but if it's supplied then following params are
  * considered, and following rules apply:
