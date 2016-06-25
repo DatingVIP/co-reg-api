@@ -9,20 +9,20 @@
     "packages": [
         {
             "name": "datingvip/api",
-            "version": "v1.0.4",
+            "version": "v1.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/DatingVIP/api-client.git",
-                "reference": "5c9f2c57a7c17e7d22b2262010e5bd60af6c554c"
+                "reference": "7f8583767200c7963bd7e3bedff4082c8c4c2424"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/5c9f2c57a7c17e7d22b2262010e5bd60af6c554c",
-                "reference": "5c9f2c57a7c17e7d22b2262010e5bd60af6c554c",
+                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/7f8583767200c7963bd7e3bedff4082c8c4c2424",
+                "reference": "7f8583767200c7963bd7e3bedff4082c8c4c2424",
                 "shasum": ""
             },
             "require": {
-                "datingvip/curl": "2.0.3",
+                "datingvip/curl": "^2.0",
                 "php": ">=5.4.0"
             },
             "type": "library",
@@ -49,20 +49,20 @@
                 "api client",
                 "datingvip"
             ],
-            "time": "2016-02-09 14:12:40"
+            "time": "2016-06-25 11:15:15"
         },
         {
             "name": "datingvip/curl",
-            "version": "v2.0.3",
+            "version": "v2.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/DatingVIP/cURL.git",
-                "reference": "86da994ad464593d7979c73bf5d734f07a9c5472"
+                "reference": "ebc4585916164e0c255dee795965be0514389f70"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DatingVIP/cURL/zipball/86da994ad464593d7979c73bf5d734f07a9c5472",
-                "reference": "86da994ad464593d7979c73bf5d734f07a9c5472",
+                "url": "https://api.github.com/repos/DatingVIP/cURL/zipball/ebc4585916164e0c255dee795965be0514389f70",
+                "reference": "ebc4585916164e0c255dee795965be0514389f70",
                 "shasum": ""
             },
             "require": {
@@ -91,7 +91,7 @@
             "keywords": [
                 "curl"
             ],
-            "time": "2014-06-19 12:15:33"
+            "time": "2016-06-24 20:27:09"
         }
     ],
     "packages-dev": [],
