@@ -1,23 +1,23 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "eada2023084b12fc70aa7cfc542183d4",
     "packages": [
         {
             "name": "datingvip/api",
-            "version": "v1.0.6",
+            "version": "1.0.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/DatingVIP/api-client.git",
-                "reference": "7f8583767200c7963bd7e3bedff4082c8c4c2424"
+                "reference": "bf8fcc67ddae6cf7de4ed87126bf4eecebc107a4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/7f8583767200c7963bd7e3bedff4082c8c4c2424",
-                "reference": "7f8583767200c7963bd7e3bedff4082c8c4c2424",
+                "url": "https://api.github.com/repos/DatingVIP/api-client/zipball/bf8fcc67ddae6cf7de4ed87126bf4eecebc107a4",
+                "reference": "bf8fcc67ddae6cf7de4ed87126bf4eecebc107a4",
                 "shasum": ""
             },
             "require": {
@@ -32,7 +32,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "LGPL-3.0"
+                "LGPL-3.0-or-later"
             ],
             "authors": [
                 {
@@ -48,7 +48,11 @@
                 "api client",
                 "datingvip"
             ],
-            "time": "2016-06-25T11:15:15+00:00"
+            "support": {
+                "issues": "https://github.com/DatingVIP/api-client/issues",
+                "source": "https://github.com/DatingVIP/api-client/tree/1.0.11"
+            },
+            "time": "2021-01-29T16:28:27+00:00"
         },
         {
             "name": "datingvip/curl",
@@ -90,6 +94,9 @@
             "keywords": [
                 "curl"
             ],
+            "support": {
+                "source": "https://github.com/DatingVIP/cURL/tree/master"
+            },
             "time": "2016-06-24T20:27:09+00:00"
         }
     ],
@@ -102,5 +109,6 @@
     "platform": {
         "php": ">=5.4.0"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
 }
